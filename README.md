@@ -4,7 +4,7 @@
 - ⚡ One-command project setup using Docker Compose
 - 🔄 Consistent development and deployment environment
 - 📦 Isolated dependencies for reliable execution
-- 🖥️ Cross-platform compatibility (Windows, Linux, macOS)
+- 🖥️ Cross-platform compatibility (Windows, Linux ,macOS)
 - 📈 Easy to scale and deploy
 
 
