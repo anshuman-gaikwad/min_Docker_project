@@ -73,7 +73,7 @@ Stop the application:
 docker compose down
 ```
 
-## Useful Docker Commands
+## Useful Docker Commands.
 
 ```bash
 # View running containers
